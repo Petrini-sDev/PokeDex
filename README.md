@@ -10,7 +10,7 @@ This is a React Next.js application that leverages the [PokéAPI](https://pokeap
 
 ## Demo
 
-Check out the live demo of the app [here](#).
+Check out the live demo of the app [here](https://poke-dex-gilt.vercel.app/).
 
 ## Getting Started
 
