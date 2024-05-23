@@ -5,7 +5,6 @@ This is a React Next.js application that leverages the [PokéAPI](https://pokeap
 ## Features
 
 - Display a list of Pokémon from the Pokédex
-- Search for specific Pokémon by name
 - View detailed information about each Pokémon, including stats, types, and abilities
 
 ## Demo
